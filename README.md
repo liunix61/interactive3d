@@ -1,3 +1,6 @@
+<p align="center" width="100%">
+<img src="assets/Interactive3d.png"  width="20%" height="20%">
+</p>
 <div align="center">
     <a href='https://scholar.google.com/citations?user=Pee4FRsAAAAJ&hl=en' target='_blank'>Shaocong Dong<sup>1*</sup></a>&emsp;
     <a href='https://dinglihe.github.io/' target='_blank'>Lihe Ding<sup>2,4*</sup></a>&emsp;
