@@ -35,23 +35,23 @@
 - Code will be released soon.
 
 <p align="left" width="100%">
-<img src="assets/results.jpg"  width="60%" height="80%">
+<img src="assets/results.png"  width="100%" height="100%">
 </p>
 
 ### Framework 
 Interactive3D contains two stages with distinct 3D representations: (I) Gaussian Splatting for flexible user interactions such as add/remove parts; geometry transformation; deformable or rigid dragging and semantic editing, (II) the Gaussian blobs are converted to InstantNGP using NeRF distillation and fine-tined by our Interactive Hash Refinement Module.
 
 <p align="left" width="100%">
-<img src="assets/arc.png"  width="60%" height="80%">
+<img src="assets/arc.png"  width="100%" height="100%">
 </p>
 
 ## Citation
 If the paper and the code are helpful for your research, please kindly cite:
 ```
-@article{ding2023text,
-      title={Text-to-3D Generation with Bidirectional Diffusion using both 2D and 3D priors}, 
-      author={Ding, Lihe and Dong, Shaocong, and Huang, Zhanpeng, and Wang, Zibin and Zhang, Yiyuan and Gong, Kaixiong and Xu, Dan and Xue, Tianfan},
-      journal={arXiv preprint arXiv:2312.04963},
-      year={2023},
+@inproceedings{dong2024interactived,
+    title={Interactive3D: Create What You Want by Interactive 3D Generation},
+    author={Shaocong, Dong and Lihe, Ding and Zhanpeng, Huang and Zibin, Wang and Tianfan, Xue and Dan, Xu},
+    booktitle={Conference on Computer Vision and Pattern Recognition 2024},
+    year={2024}
 }
 ```
