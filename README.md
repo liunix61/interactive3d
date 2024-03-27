@@ -1,6 +1,27 @@
+[comment]: <> (# Interactive3D: Create What You Want by Interactive 3D Generation)
+
 <p align="center" width="100%">
 <img src="assets/interactive3d.png"  width="30%" height="30%">
 </p>
+
+<p align="center">
+
+  <h1 align="center">Interactive3D: Create What You Want by Interactive 3D Generation</h1>
+  <p align="center">
+    <a href='https://scholar.google.com/citations?user=Pee4FRsAAAAJ&hl=en'><strong>Shaocong Dong<sup>*</sup></strong></a>
+    ·
+    <a href='https://dinglihe.github.io/'><strong>Lihe Ding<sup>*</sup></strong></a>
+    ·
+    <a><strong>Zhanpeng Huang</strong></a>
+    ·
+    <a><strong>Zibin Wang</strong></a>
+    ·
+    <a href='https://tianfan.info/'><strong>Tianfan Xue</strong></a>
+    ·
+    <a href='https://www.danxurgb.net/'><strong>Dan Xu</strong></a>
+  </p>
+
+<!--
 <div align="center">
     <a href='https://scholar.google.com/citations?user=Pee4FRsAAAAJ&hl=en' target='_blank'>Shaocong Dong<sup>1*</sup></a>&emsp;
     <a href='https://dinglihe.github.io/' target='_blank'>Lihe Ding<sup>2,4*</sup></a>&emsp;
@@ -23,27 +44,29 @@
     <sup>*</sup> Equal Contribution&emsp;
     <sup>†</sup> Corresponding Author&emsp;
 </div>
+-->
 
------------------
-
-### Interactive3D: Create What You Want by Interactive 3D Generation
-[![arXiv](https://img.shields.io/badge/arxiv-2312.04963-b31b1b?style=plastic&color=b31b1b&link=https%3A%2F%2Farxiv.org%2Fabs%2F2312.04963)](https://arxiv.org/abs/2312.04963)
-[![website](https://img.shields.io/badge/Project-Website-brightgreen)](https://interactive-3d.github.io/)
-
-### NEWS
-- 🔥 Interactive3D got accepted by CVPR24.
-- Code will be released soon.
+[comment]: <> (  <h2 align="center">PAPER</h2>)
+  <h3 align="center"><a href="https://github.com/interactive-3d/interactive3d">Paper</a> | <a href="https://instant-3d.github.io">Project Page</a></h3>
+  <div align="center"></div>
 
 <p align="left" width="100%">
 <img src="assets/results.png"  width="100%" height="100%">
 </p>
 
-### Framework 
-Interactive3D contains two stages with distinct 3D representations: (I) Gaussian Splatting for flexible user interactions such as add/remove parts; geometry transformation; deformable or rigid dragging and semantic editing, (II) the Gaussian blobs are converted to InstantNGP using NeRF distillation and fine-tined by our Interactive Hash Refinement Module.
+---
 
+## NEWS
+- 🔥 Interactive3D got accepted by CVPR24.
+- Code will be released soon.
+
+
+## Abstract 
 <p align="left" width="100%">
 <img src="assets/arc.png"  width="100%" height="100%">
 </p>
+Interactive3D is an innovative framework for interactive 3D generation that grants users precise control over the generative process through extensive 3D interaction capabilities. Interactive3D is constructed in two cascading stages, utilizing distinct 3D representations. The first stage employs Gaussian Splatting for direct user interaction, allowing modifications and guidance of the generative direction at any intermediate step through (i) Adding and Removing components, (ii) Deformable and Rigid Dragging, (iii) Geometric Transformations, and (iv) Semantic Editing. Subsequently, the Gaussian splats are transformed into InstantNGP. We introduce a novel (v) Interactive Hash Refinement module to further add details and extract the geometry in the second stage.
+
 
 ## Citation
 If the paper and the code are helpful for your research, please kindly cite:
