@@ -12,9 +12,9 @@
     ·
     <a href='https://dinglihe.github.io/'><strong>Lihe Ding<sup>*</sup></strong></a>
     ·
-    <a><strong>Zhanpeng Huang</strong></a>
+    <a href='https://dblp.org/pid/135/5933.html'><strong>Zhanpeng Huang</strong></a>
     ·
-    <a><strong>Zibin Wang</strong></a>
+    <a href='https://dblp.org/pid/54/8616.html'><strong>Zibin Wang</strong></a>
     ·
     <a href='https://tianfan.info/'><strong>Tianfan Xue</strong></a>
     ·
