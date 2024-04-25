@@ -72,9 +72,8 @@ Interactive3D is an innovative framework for interactive 3D generation that gran
 If the paper and the code are helpful for your research, please kindly cite:
 ```
 @inproceedings{dong2024interactived,
-    title={Interactive3D: Create What You Want by Interactive 3D Generation},
-    author={Shaocong, Dong and Lihe, Ding and Zhanpeng, Huang and Zibin, Wang and Tianfan, Xue and Dan, Xu},
-    booktitle={Conference on Computer Vision and Pattern Recognition 2024},
-    year={2024}
-}
+      title={Interactive3D: Create What You Want by Interactive 3D Generation},
+      author={Dong, Shaocong and Ding, Lihe and Huang, Zhanpeng and Wang, Zibin and Xue, Tianfan and Xu, Dan},
+      booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+      year={2024}
 ```
