@@ -47,7 +47,7 @@
 -->
 
 [comment]: <> (  <h2 align="center">PAPER</h2>)
-  <h3 align="center"><a href="https://github.com/interactive-3d/interactive3d">Paper</a> | <a href="https://interactive-3d.github.io/">Project Page</a></h3>
+  <h3 align="center"><a href="https://github.com/interactive-3d/interactive3d">Paper</a> | <a href="https://interactive-3d.github.io/">Project Page</a> | <a href="https://youtu.be/ZYSOonigv3s">Video</a></h3>
   <div align="center"></div>
 
 <p align="left" width="100%">
