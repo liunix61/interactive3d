@@ -67,6 +67,11 @@
 </p>
 Interactive3D is an innovative framework for interactive 3D generation that grants users precise control over the generative process through extensive 3D interaction capabilities. Interactive3D is constructed in two cascading stages, utilizing distinct 3D representations. The first stage employs Gaussian Splatting for direct user interaction, allowing modifications and guidance of the generative direction at any intermediate step through (i) Adding and Removing components, (ii) Deformable and Rigid Dragging, (iii) Geometric Transformations, and (iv) Semantic Editing. Subsequently, the Gaussian splats are transformed into InstantNGP. We introduce a novel (v) Interactive Hash Refinement module to further add details and extract the geometry in the second stage.
 
+## Acknowledgement
+Interactive3D is built on many amazing research works, thanks a lot to all the authors for sharing! Thank [Yiyuan](https://github.com/invictus717) for the valuable discussion and paper refinement.
+- [gsgen](https://github.com/gsgen3d/gsgen) and [instant-ngp](https://github.com/NVlabs/instant-ngp)
+- [threestudio](https://github.com/threestudio-project/threestudio)
+
 
 ## Citation
 If the paper and the code are helpful for your research, please kindly cite:
