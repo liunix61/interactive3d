@@ -76,9 +76,10 @@ Interactive3D is built on many amazing research works, thanks a lot to all the a
 ## Citation
 If the paper and the code are helpful for your research, please kindly cite:
 ```
-@inproceedings{dong2024interactived,
-      title={Interactive3D: Create What You Want by Interactive 3D Generation},
-      author={Dong, Shaocong and Ding, Lihe and Huang, Zhanpeng and Wang, Zibin and Xue, Tianfan and Xu, Dan},
-      booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
-      year={2024}
+@article{dong2024interactive3d,
+  title={Interactive3D: Create What You Want by Interactive 3D Generation},
+  author={Dong, Shaocong and Ding, Lihe and Huang, Zhanpeng and Wang, Zibin and Xue, Tianfan and Xu, Dan},
+  journal={arXiv preprint arXiv:2404.16510},
+  year={2024}
+}
 ```
